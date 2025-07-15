@@ -133,5 +133,5 @@
     { "title": "Small (< 1 m³)", "value": "small_1_m" },
     { "title": "Medium (1–5 m³)", "value": "medium_1_5_m" },
     { "title": "Large (> 5 m³)", "value": "large_5_m" }
-  ],
+  ]
 }
