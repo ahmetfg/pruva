@@ -9,10 +9,10 @@
     { "title": "20′ FR", "value": "20_fr" },
     { "title": "40′ FR", "value": "40_fr" },
     { "title": "20′ RF", "value": "20_rf" },
-    { "title": "40′ HC RF", "value": "40_hc_rf" }
-    { "title": "Ventilated Container", "value": "vc" }
-    { "title": "Insulated Container", "value": "ic" }
-    { "title": "Hard Top Open Top Container", "value": "htotc" }
+    { "title": "40′ HC RF", "value": "40_hc_rf" },
+    { "title": "Ventilated Container", "value": "vc" },
+    { "title": "Insulated Container", "value": "ic" },
+    { "title": "Hard Top Open Top Container", "value": "htotc" },
     { "title": "Platform Container", "value": "pc" }
   ],
   "ibc": [
