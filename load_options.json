@@ -43,7 +43,7 @@
     { "title": "Small (0–0.5 m³)", "value": "small_0_0_5_m" },
     { "title": "Medium (0.5–2 m³)", "value": "medium_0_5_2_m" },
     { "title": "Large (> 2 m³)", "value": "large_2_m" }
-  ]
+  ],
   "carton": [
     { "title": "Option (5″ × 3.5″ × 2″ – 48″ × 23″ × 30″)", "value": "option_5_3_5_2_48_23_30" }
   ],
