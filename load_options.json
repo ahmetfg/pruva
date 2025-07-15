@@ -1,13 +1,50 @@
 {
+  "container": [
+    { "title": "20′ DC", "value": "20_dc" },
+    { "title": "40′ DC", "value": "40_dc" },
+    { "title": "40′ HC", "value": "40_hc" },
+    { "title": "45′ HC", "value": "45_hc" },
+    { "title": "20′ OT", "value": "20_ot" },
+    { "title": "40′ OT", "value": "40_ot" },
+    { "title": "20′ FR", "value": "20_fr" },
+    { "title": "40′ FR", "value": "40_fr" },
+    { "title": "20′ RF", "value": "20_rf" },
+    { "title": "40′ HC RF", "value": "40_hc_rf" }
+  ],
+  "ibc": [
+    { "title": "Rigid IBC (1200 × 1000 × 1150 mm)", "value": "rigid_ibc_1200_1000_1150_mm" },
+    { "title": "Rigid IBC (1200 × 1000 × 1350 mm)", "value": "rigid_ibc_1200_1000_1350_mm" }
+  ],
+  "pallet": [
+    { "title": "Euro EPAL (1200 × 800 × 144 mm)", "value": "euro_epal_1200_800_144_mm" },
+    { "title": "ISO (1200 × 1000 × 144 mm)", "value": "iso_1200_1000_144_mm" },
+    { "title": "Plastic (600 × 400 mm)", "value": "plastic_600_400_mm" },
+    { "title": "Plastic (800 × 600 mm)", "value": "plastic_800_600_mm" },
+    { "title": "Plastic (1200 × 800 mm)", "value": "plastic_1200_800_mm" },
+    { "title": "Plastic (1200 × 1000 mm)", "value": "plastic_1200_1000_mm" }
+  ],
+  "pallet_box": [
+    { "title": "Pallet Box (48″ × 40″ × 36″)", "value": "pallet_box_48_40_36" },
+    { "title": "Pallet Box (40″ × 40″ × 40″)", "value": "pallet_box_40_40_40" },
+    { "title": "Small Pallet Box (40″ × 30″ × 30″)", "value": "small_pallet_box_40_30_30" }
+  ],
+  "pallet_cage": [
+    { "title": "Pallet Cage (1200 × 1000 × 800 mm)", "value": "pallet_cage_1200_1000_800_mm" }
+  ],
+  "case": [
+    { "title": "Option (5″ × 3.5″ × 2″ – 48″ × 23″ × 30″)", "value": "option_5_3_5_2_48_23_30" }
+  ],
   "box": [
     { "title": "Small Flat Rate Box (9-7/16″ × 6-7/16″ × 2-3/16″)", "value": "small_flat_rate_box_9_7_16_6_7_16_2_3_16" },
     { "title": "Medium Flat Rate Box (11-1/4″ × 8-3/4″ × 6″)", "value": "medium_flat_rate_box_11_1_4_8_3_4_6" },
     { "title": "Large Flat Rate Box (12-1/4″ × 12″ × 6″)", "value": "large_flat_rate_box_12_1_4_12_6" }
   ],
+  "loose": [
+    { "title": "Small (0–0.5 m³)", "value": "small_0_0_5_m" },
+    { "title": "Medium (0.5–2 m³)", "value": "medium_0_5_2_m" },
+    { "title": "Large (> 2 m³)", "value": "large_2_m" }
+  ]
   "carton": [
-    { "title": "Option (5″ × 3.5″ × 2″ – 48″ × 23″ × 30″)", "value": "option_5_3_5_2_48_23_30" }
-  ],
-  "case": [
     { "title": "Option (5″ × 3.5″ × 2″ – 48″ × 23″ × 30″)", "value": "option_5_3_5_2_48_23_30" }
   ],
   "crate": [
@@ -19,14 +56,7 @@
     { "title": "Option (48″ × 30″ × 30″)", "value": "option_48_30_30" },
     { "title": "Option (48″ × 40″ × 30″)", "value": "option_48_40_30" }
   ],
-  "pallet": [
-    { "title": "Euro EPAL (1200 × 800 × 144 mm)", "value": "euro_epal_1200_800_144_mm" },
-    { "title": "ISO (1200 × 1000 × 144 mm)", "value": "iso_1200_1000_144_mm" },
-    { "title": "Plastic (600 × 400 mm)", "value": "plastic_600_400_mm" },
-    { "title": "Plastic (800 × 600 mm)", "value": "plastic_800_600_mm" },
-    { "title": "Plastic (1200 × 800 mm)", "value": "plastic_1200_800_mm" },
-    { "title": "Plastic (1200 × 1000 mm)", "value": "plastic_1200_1000_mm" }
-  ],
+
   "skid": [
     { "title": "Option (48″ × 40″ (1220 × 1016 mm))", "value": "option_48_40_1220_1016_mm" }
   ],
@@ -73,34 +103,10 @@
     { "title": "Cable Reel (Ø 30″ × W 20″)", "value": "cable_reel_30_w_20" },
     { "title": "Large Cable Reel (Ø 48″ × W 30″)", "value": "large_cable_reel_48_w_30" }
   ],
-  "container": [
-    { "title": "20′ DC", "value": "20_dc" },
-    { "title": "40′ DC", "value": "40_dc" },
-    { "title": "40′ HC", "value": "40_hc" },
-    { "title": "45′ HC", "value": "45_hc" },
-    { "title": "20′ OT", "value": "20_ot" },
-    { "title": "40′ OT", "value": "40_ot" },
-    { "title": "20′ FR", "value": "20_fr" },
-    { "title": "40′ FR", "value": "40_fr" },
-    { "title": "20′ RF", "value": "20_rf" },
-    { "title": "40′ HC RF", "value": "40_hc_rf" }
-  ],
-  "ibc": [
-    { "title": "Rigid IBC (1200 × 1000 × 1150 mm)", "value": "rigid_ibc_1200_1000_1150_mm" },
-    { "title": "Rigid IBC (1200 × 1000 × 1350 mm)", "value": "rigid_ibc_1200_1000_1350_mm" }
-  ],
   "tote": [
     { "title": "Plastic Tote (600 × 400 × 400 mm)", "value": "plastic_tote_600_400_400_mm" },
     { "title": "Plastic Tote (800 × 600 × 500 mm)", "value": "plastic_tote_800_600_500_mm" },
     { "title": "Plastic Tote (1000 × 800 × 600 mm)", "value": "plastic_tote_1000_800_600_mm" }
-  ],
-  "pallet_box": [
-    { "title": "Pallet Box (48″ × 40″ × 36″)", "value": "pallet_box_48_40_36" },
-    { "title": "Pallet Box (40″ × 40″ × 40″)", "value": "pallet_box_40_40_40" },
-    { "title": "Small Pallet Box (40″ × 30″ × 30″)", "value": "small_pallet_box_40_30_30" }
-  ],
-  "pallet_cage": [
-    { "title": "Pallet Cage (1200 × 1000 × 800 mm)", "value": "pallet_cage_1200_1000_800_mm" }
   ],
   "gaylord": [
     { "title": "Gaylord (48″ × 40″ × 36″)", "value": "gaylord_48_40_36" },
@@ -128,9 +134,4 @@
     { "title": "Medium (1–5 m³)", "value": "medium_1_5_m" },
     { "title": "Large (> 5 m³)", "value": "large_5_m" }
   ],
-  "loose": [
-    { "title": "Small (0–0.5 m³)", "value": "small_0_0_5_m" },
-    { "title": "Medium (0.5–2 m³)", "value": "medium_0_5_2_m" },
-    { "title": "Large (> 2 m³)", "value": "large_2_m" }
-  ]
 }
